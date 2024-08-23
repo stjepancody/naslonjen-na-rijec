@@ -93,6 +93,10 @@ p {
   text-align: center
 }
 
+.text-3 {
+color: rgb(2, 148, 226);
+}
+
 .pictures {
 	display: flex;
 	justify-content: center;
